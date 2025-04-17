@@ -1,1 +1,1 @@
-# Plant_Disease_Detection
+Smart Agriculture Through Leaf Image Analysis
